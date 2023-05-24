@@ -44,7 +44,7 @@ body {
 
 .page__title:hover {
     z-index: 0;
-    color: rgba(128, 128, 128)
+    color: rgb(78, 78, 78)
 }
 
 .page__title:hover ~ .video_cover {
