@@ -41,12 +41,13 @@ body {
     z-index: 2;
 
 }
-.page__title:hover   {
+
+.page__title:hover {
     z-index: 0;
-    color: rgba(128,128,128)
+    color: rgba(128, 128, 128)
 }
 
-.page__title:hover  ~ .video_cover  {
+.page__title:hover ~ .video_cover {
     z-index: -1;
 }
 
